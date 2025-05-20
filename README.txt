@@ -1,4 +1,3 @@
-
 This is a sample that has vulnerabilities spanning multiple application 
 technologies (Java, PL/SQL, JSP, struts).
 
